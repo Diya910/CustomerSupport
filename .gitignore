@@ -1,0 +1,6 @@
+.claude
+.env
+/.remember/
+/ai_module/
+/webapp-build/
+#lso check later why admin dashboar is not visible it's keep refreshing fix that it will auto fresh in every 10 seconds
